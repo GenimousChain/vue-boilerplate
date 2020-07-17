@@ -1,2 +1,1 @@
 # vue-boilerplate
-vue-boilerplate
